@@ -1,0 +1,66 @@
+[
+    {
+        "Name": "Avalon Tool",
+        "InternalId": "AvalonTool",
+        "SizeMB": 10.5,
+        "Status": 0,
+        "Url": "https://www.ingamewise.com/account/games/albion-online/services/avalon-tool",
+        "UrlRepo": "https://raw.githubusercontent.com/GameWiseAPP/GameWise-repo/main/albion-online/AvalonTool-1.0.zip",
+        "Icon": "🛤️",
+        "Available": true
+    },
+    {
+        "Name": "Player Tracker",
+        "SizeMB": 13.2,
+        "Status": 0,
+        "Url": "https://www.ingamewise.com/account/games/albion-online/services/player-tracker",
+        "UrlRepo": ,
+        "Icon": "🎯",
+        "Available": true
+    },
+    {
+        "Name": "Server Info",
+        "SizeMB": 0,
+        "Status": 0,
+        "Url": "https://www.ingamewise.com/account/games/albion-online/services/server-info",
+        "UrlRepo":,
+        "Icon": "🌐",
+        "Available": false
+    },
+    {
+        "Name": "Market Watch",
+        "SizeMB": 0,
+        "Status": 0,
+        "Url": "https://www.ingamewise.com/account/games/albion-online/services/market-watch",
+        "UrlRepo":,
+        "Icon": "📈",
+        "Available": false
+    },
+    {
+        "Name": "Craft Calculator",
+        "SizeMB": 0,
+        "Status": 0,
+        "Url": "https://www.ingamewise.com/account/games/albion-online/services/craft-calculator",
+        "UrlRepo":,
+        "Icon": "⚒️",
+        "Available": false
+    },
+    {
+        "Name": "Guild Manager",
+        "SizeMB": 0,
+        "Status": 0,
+        "Url": "https://www.ingamewise.com/account/games/albion-online/services/guild-manager",
+        "UrlRepo":,
+        "Icon": "👥",
+        "Available": false
+    },
+    {
+        "Name": "Loot Splitter",
+        "SizeMB": 0,
+        "Status": 0,
+        "Url": "https://www.ingamewise.com/account/games/albion-online/services/loot-splitter",
+        "UrlRepo":,
+        "Icon": "⚖️",
+        "Available": false
+    }
+]
