@@ -1,0 +1,7 @@
+Copyright (c) 2025 Raphael Guedes - Predador Alpha Studio
+
+All rights reserved.
+
+This repository and all its contents (including DLLs, ZIPs, images, and data files) are proprietary software of Predador Alpha Studio. Unauthorized copying, distribution, modification, or usage of the content, in whole or in part, is strictly prohibited without express written permission from the author.
+
+This repository is intended solely for integration with the GameWise platform. For licensing inquiries, contact: contato@apgamestudio.com
